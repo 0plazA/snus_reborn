@@ -1,1 +1,1 @@
-https://github.com/0plazA/snus_reborn/raw/main/REBORN.android.signed-release.apk
+https://github.com/0plazA/snus_reborn/raw/master/REBORN.apk
